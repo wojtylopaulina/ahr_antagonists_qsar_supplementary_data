@@ -24,3 +24,7 @@ This repository contains supplementary materials associated with research on Ary
 
 ## Citation
 To be updated after Zenodo DOI generation.
+
+## Licensing
+Data in this repository are intended for academic use.  
+Third-party data remain subject to their original licenses.
